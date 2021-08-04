@@ -1,0 +1,1 @@
+# SQL-Mini-Project-on-Presidential-Elections-
